@@ -146,16 +146,16 @@ experiences:
 
 publications:
     title: Coursework
-    
-    - Observational Astrophysics
-    - High-Energy Astrophysics
-    - Astrophysics of Galaxies
-    - Introduction to Cosmology
-    - Quantum Mechanics
-    - Statistical Physics
-    - Mathematical Physics
-    - Electromagnetic Theory
-    - Classical Mechenics
+    intro: |
+        - Observational Astrophysics
+        - High-Energy Astrophysics
+        - Astrophysics of Galaxies
+        - Introduction to Cosmology
+        - Quantum Mechanics
+        - Statistical Physics
+        - Mathematical Physics
+        - Electromagnetic Theory
+        - Classical Mechenics
 
     
 skills:
