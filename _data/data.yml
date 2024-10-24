@@ -16,7 +16,7 @@ sidebar:
     email: yunlaiw@uci.edu
     #phone: 012 345 6789
     #timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-    citizenship: Irvine, CA
+    #citizenship: Irvine, CA
     #website: https://example.com/ # Include the full website URL, including "http://" or "https://".
     #linkedin: alandoe
     #xing: alandoe
@@ -161,7 +161,7 @@ oss:
     title: Awards
     contributions:
       - title:  Dean's Honor List
-        tagline: "This honor is awarded to undergraduate students who complete 12 or more graded units in a quarter with a GPA of 3.500 or better"
+        tagline: "This honor is awarded to undergraduate students who complete 12 or more graded units in a quarter with a GPA of 3.500 or better."
     
 skills:
     title: Skills &amp; Proficiency
