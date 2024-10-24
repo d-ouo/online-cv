@@ -1,0 +1,195 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    position: right # position of the sidebar : left or right
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Yunlai Wen
+    tagline: #Full Stack Developer
+    avatar: #profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: yunlaiw@uci.edu
+    #phone: 012 345 6789
+    #timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    #citizenship:
+    #website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+    #linkedin: alandoe
+    #xing: alandoe
+    #github: jekyll
+    #telegram: # add your nickname without '@' sign
+    #gitlab:
+    #bitbucket:
+    #twitter: '@jekyllrb'
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
+    #mastodon:  # Please include your full Mastodon link here.
+    #hackerrank: # Please provide your HackerRank username.
+    #leetcode: # Please provide your LeetCode username.
+    #pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+
+    languages:
+      title: Languages
+      info:
+        - idiom: Mandarin
+          level: Native
+
+        - idiom: English
+          level: Professional
+
+        - idiom: Japanese
+          level: Fluent
+
+        - idiom: Spanish
+          level: Fluent
+
+    interests:
+      title: Interests
+      info:
+        - item: Cooking
+          link:
+
+        - item: Hiking
+          link:
+
+        - item: Painting
+          link:
+
+career-profile:
+    title: Objective
+    summary: |
+      To gain admission to an Astrophysics PhD program with a particular focus on galaxy evolution, black holes, high-energy astrophysics, or observational astrophysics.
+education:
+    title: Education
+    info:
+      - degree: B.S. in Physics
+        university: University of California, Irvine
+        time: 09/2021 - Present
+        
+      
+
+experiences:
+    title: Experiences
+    info:
+      - role: Undergraduate Research
+        time: 05/2024 - Present
+        company: University of California, Irvine
+        details: |
+            Reverberation Mapping of Active Galactic Nuclei (AGN)
+            - Conducted a research project mentored by Professor Aaron Barth, based on light curve data from the Zwicky Transient Facility (ZTF). Studied and discussed the reverberation mapping characteristics of AGNs, while exploring the properties of supermassive black holes.
+            - Used database tools to identify target objects, specifically focusing on the low-redshift Type I AGNs from ZTF Data Releases 20 to 22.
+            - Generated substantial computational results from numerous samples using ICCF and JAVELIN, and evaluated the lag patterns among various emission line samples.
+
+      - role: Learning Assistant
+        time: 04/2023 - 06/2023
+        company: University of California, Irvine
+        details: |
+            Basic Physics II
+            - Prepared standard solutions for weekly assignments, conducted weekly tutoring sessions to address student questions, and provide guidance on assignments and group projects.
+            - Collaborated with the professor to adjust weekly plans by offering feedbacks.
+            - Contributed to improved student outcomes, with many students demonstrating enhanced collaboration skills, greater proficiency in problem-solving, a deeper understanding of physics principles, and increased confidence in explaining their ideas.
+
+
+#certifications:
+#      title: Certifications
+#      list:
+#        - name: CV Builder
+#          start: 2020
+#          end: 2021
+#          organization: Microsoft
+ #         credentialid: 111-222
+ #         credentialurl: www.google.com
+ #         credentialname: Google
+#          details: |
+#            Details about cert. Lorem ipsum dolor sit amet, consectetur
+ #           adipiscing elit.
+ 
+
+#projects:
+#    title: Projects
+#    intro: >
+#      You can list your side projects in this
+ #     section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ #     Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    assignments:
+#      - title: Velocity
+#        link: "#hook"
+#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+#oss:
+#    title: OSS Contributions
+#    intro: >
+#      You can list your open source software contributions in this
+
+#    contributions:
+#      - title: Tempo
+#        link: "#"
+#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+
+#publications:
+#    title: Publications
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+
+#    papers:
+#      - title: The Art of Computer Programming
+#        link: "#"
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
+
+
+publications:
+    title: Coursework
+    intro: |
+        - Observational Astrophysics
+        - High-Energy Astrophysics
+        - Astrophysics of Galaxies
+        - Introduction to Cosmology
+        - Quantum Mechanics
+        - Statistical Physics
+        - Mathematical Physics
+        - Electromagnetic Theory
+        - Classical Mechenics
+
+oss:
+    title: Awards
+    intro: |
+        Dean's Honor List
+        - This honor is awarded to undergraduate students who complete 12 or more graded units in a quarter with a GPA of 3.500 or better.
+    
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python
+        level: 90%
+
+      - name: Mathematica & MATLAB
+        level: 90%
+
+      - name: C# & Java
+        level: 70%
+
+      - name: SAOImageDS9 & TOPCAT
+        level: 95%
+
+      - name: SQL
+        level: 85%
+
+      - name:  Windows & macOS
+        level: 100%
+
+      - name:  Microsoft Office
+        level: 100%
+
+      - name:  Adobe Photoshop & Premiere Pro
+        level: 95%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
